@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "tagtools"]
+	path = tagtools
+	url = https://github.com/animaltags/tagtools_r
